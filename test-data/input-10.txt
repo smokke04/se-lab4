@@ -1,0 +1,4 @@
+# although primary was fired last time, but the secondary is empty thus try to fire primary again and primary is empty too
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
