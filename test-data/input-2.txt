@@ -1,0 +1,4 @@
+#Alternating fire 1st primary then secondary.
+GT4500,2,0,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
