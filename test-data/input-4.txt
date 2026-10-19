@@ -1,0 +1,3 @@
+# Primary 100% fail rate, so the shoot will be FAIL and won't try shooting secondary
+GT4500,1,1.0,1,0.0
+TORPEDO,SINGLE
